@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: baconshrimpeyes.com
-Token: 5bee6b62d7a4f217a99da4d03a24fdecbe70d200b00b146c160a5ef2eeebc8c4
