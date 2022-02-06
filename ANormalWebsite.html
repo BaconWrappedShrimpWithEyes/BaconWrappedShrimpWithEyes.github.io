@@ -4,18 +4,15 @@
   <title>This is totally just a normal website, nothing to see here</title>
   <script>
     function a(){
-      setTimeout(fuction(){
-        var n = Math.random()
-        if(n<0.33){
-          window.location.href= "https://coconutmalled.com/";
-        }
-        else if(n<0.66){
-          window.location.href="https://www.youtube.com/watch?v=1FFBsX5C61Q";
-        }
-        else{
-          window.location.href="https://www.youtube.com/watch?v=dQw4w9WgXcQ";
-        }
-      }, 2000)
+      setTimeout(function(){
+    	  var n = Math.random();
+        if(n<0.33)
+  			window.location.href = "https://www.youtube.com/watch?v=1FFBsX5C61Q"
+        else if(n<0.66)
+        	window.location.href = "https://www.coconutmalled.com"
+        else
+          window.location.href = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+	     }, 200)
     }
   </script>
 </head>
